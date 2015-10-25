@@ -1,0 +1,26 @@
+{
+  "name": "sequential-installer",
+  "version": "1.0.0",
+  "description": "Install all node.js packages sequentially, one by one",
+  "main": "installer.es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyKhristov/sequential-installer.git"
+  },
+  "keywords": [
+    "installer"
+  ],
+  "author": "Alexey Khristov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexeyKhristov/sequential-installer/issues"
+  },
+  "homepage": "https://github.com/AlexeyKhristov/sequential-installer#readme",
+  "dependencies": {
+    "babel": "^5.8.29",
+    "co": "^4.6.0"
+  }
+}
